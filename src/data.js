@@ -8,7 +8,7 @@ const productData = [
     },
     {
         "id": 2,
-        "img": "/images/product2/IMG-20240704-WA0013.jpg",
+        "img": "/images/product2/IMG-20240704-WA0021.jpg",
         "productName":"Plastic mug",
         "rate": "Rs132 / Dozen + GST + Transport",
         "plasticMaterial": "PP/CP"
