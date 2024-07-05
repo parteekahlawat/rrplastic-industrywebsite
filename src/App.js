@@ -56,6 +56,14 @@ function App() {
       <main>
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
+          <img
+                    className="bd-placeholder-img card-img-top"
+                    width="300px"
+                    height="300px"
+                    src="/logo.png"
+                    alt="Image"
+                    style={{borderRadius: "20px", width:"300px", height:"auto"}}
+                  />
             <div class="col-lg-6 col-md-8 mx-auto">
               <h1 class="fw-light">R R Plastic</h1>
               <p class="lead text-body-secondary">
